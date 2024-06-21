@@ -1,2 +1,2 @@
 # Hello-World
-The readme file is updated
+The readme file is updated from terminal
